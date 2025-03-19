@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a:active {
+    color: red;
+}
+
+p:hover {
+    color: blue;
+}
+
+p{
+    color: red;
+}
+ .contador{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+ }
+ .app{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+ }
+ .contador:empty{
+    background-color: black;
+ }

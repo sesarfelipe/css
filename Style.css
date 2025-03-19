@@ -1,0 +1,37 @@
+h1 {
+    color: blueviolet;
+    background-color: rgb(207, 26, 26);
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+button {
+    color: chartreuse;
+    background: white;
+    border-color: green;
+}
+#P1 {
+    color: black;
+}
+
+#p2{
+    color: brown;
+}
+
+#B1 {
+    color: aquamarine;
+    font-size: 55px;
+
+}
+
+#B2 {
+    color: gold;
+    font-size: 30px;
+    font-weight: 15px;
+}
+.texto{
+    color: ;
+}

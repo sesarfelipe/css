@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vh;
+}
+.pai{
+    height: 350px;
+    width: 350px;
+    background-color: #ff1396;
+
+}
+
+ .filho{
+    height: 150px;
+    width: 150px;
+    color: black;
+
+ }
+ .caixa{
+    color: blue;
+    height: 100px;
+    width: 100px;
+
+ }
+
+ /*position: padrao nao aceita valores top button rigth e left
+ position fixed: fixa o elemento na tela;
+ position sticky: age como um adesivo, fixa o elemento só onde eu determinar;
+ position relative: posição relativa a posição inicial dele;
+ position absolute: FIXA a algum elemento ou a pagina. se nao tiver pai/ piafor static posicao referente  a pagina
+ se o pai nao for static posição referente ao pai

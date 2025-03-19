@@ -1,0 +1,25 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+input{
+    color: #ff0000;
+    border: 1px solid blueviolet;
+}
+input::placeholder {
+    color: aqua;
+}
+ a{
+ color:blueviolet ;
+ 
+
+ }
+ a::before {
+    content: "-->>";
+ }
+
+ a::after {
+    content: "--.";
+ }
+ /* beforre colocar algo depois after antes serão muito vistos 
